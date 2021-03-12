@@ -5,7 +5,7 @@
 	<li>git clone https://github.com/davidjuan24/YouDown</li>
 	<li>cd YouDown</li>
 	<li>bash install.sh</li>
-	<li>python YouDown.py</li>
+	<li>python youDown.py</li>
 	<li>Seleccion opcion 1 o 2, (solo numero entero)</li>
 	<li>Pegar la url del video o audio a descargar</li>
 	<li>Poner la ruta donde se guardará el archivo</li>
